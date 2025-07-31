@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: thyagdocker/jenkinspractis:5
+        image: thyagdocker/jenkinspractis:15
         ports:
         - containerPort: 8080
